@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... .Net
 - 💞️ I’m looking to collaborate on ... Twitch, Mastodon and in-person
 - 📫 How to reach me ... https://techhub.social/@DeveloperX (Mastodon)
+- 📺 Watch me ... https://www.twitch.tv/developerex
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Speed doesn't know who I really am!
 
